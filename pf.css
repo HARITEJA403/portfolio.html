@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: blue;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+img{
+    border-radius: 70px;
+}
